@@ -1,9 +1,17 @@
-### 🐅 Entropic Visio 🐉
+# 🐅 Entropic Visio 🐉
 **`Aspiring Problem Solver and Programmer`**
 Currently studying Computer Science in University to figure out what I want to be in the Future.
 Love to program and figurer out innovative solutions.
 
-#### Current Programming Languages
+---
+
+### 🧰 Languages and Technologies
+<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+          
+
+
+
+
 <!--
 **Entropic-Visio/Entropic-Visio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
