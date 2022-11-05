@@ -7,13 +7,10 @@ Love to program and and create things.
 ---
 
 ### 🧰 Languages and Technologies
-<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-                    
 
-
-
-
+          
 <!--
 **Entropic-Visio/Entropic-Visio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
