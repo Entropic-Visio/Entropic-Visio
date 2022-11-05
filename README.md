@@ -1,8 +1,7 @@
 # 🐅 Entropic Visio 🐉
 **`Aspiring Problem Solver and Programmer`**
 Currently studying Computer Science in University to figure out what I want to be in the Future.
-Love to program and figurer out innovative solutions.
-
+Love to program and and create things.
 ---
 
 ### 🧰 Languages and Technologies
