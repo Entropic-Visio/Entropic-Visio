@@ -2,6 +2,7 @@
 **`Aspiring Problem Solver and Programmer`**
 
 Based in the UK,
+
 Currently studying Computer Science in University to figure out what I want to be in the Future.
 Avid Programmer and love to learn new technology. Currently a Python Programmer, 
 converting to Rust next Year.
